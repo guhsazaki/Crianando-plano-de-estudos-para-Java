@@ -7,7 +7,8 @@ Este roadmap é voltado para iniciantes que deseja ingressar na área de program
 
 [OBS] Dentro do mundo do sensenvolvimento você pode seguir diversos caminhos, com java, estão citados abaixo: Web, Mensageria, teste...
 
-![image-rendered](https://user-images.githubusercontent.com/102387120/194964138-99731179-7662-4b78-a4fe-dd1f12b8d213.png)
+![194963829-d7e37ba4-0a4f-4ae1-8cc7-0977e163c9e4](https://user-images.githubusercontent.com/102387120/194964648-13c5551f-80b2-4bfb-8f82-e31eb5924c49.png)
+
 
  ## Cursos sordenados por níveis de dificuldades
  
