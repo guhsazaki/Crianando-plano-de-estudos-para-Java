@@ -14,4 +14,4 @@ Este roadmap é voltado para iniciantes que deseja ingressar na área de program
  
  **Nível iniciante**
 
-= Introdução a plataforma Java-[acessar o curso]
+  -Introdução a plataforma Java-[acessar o curso]https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd
