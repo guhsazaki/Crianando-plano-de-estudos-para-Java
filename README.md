@@ -10,7 +10,7 @@ Este roadmap é voltado para iniciantes que deseja ingressar na área de program
 ![194963829-d7e37ba4-0a4f-4ae1-8cc7-0977e163c9e4](https://user-images.githubusercontent.com/102387120/194964648-13c5551f-80b2-4bfb-8f82-e31eb5924c49.png)
 
 
- ## Cursos sordenados por níveis de dificuldades
+ ## Cursos ordenados por níveis de dificuldades
  
  **Nível iniciante**
 
