@@ -29,4 +29,4 @@ Este roadmap é voltado para iniciantes que deseja ingressar na área de program
  - [ ] Faça anotações 
  - [ ] Faça os projetos sozinhos
  - [ ] Tire dúvidas
- - [ ] Done!
+ - [ ] Done!🎉
