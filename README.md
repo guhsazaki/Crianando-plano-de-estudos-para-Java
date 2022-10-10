@@ -20,7 +20,6 @@ Este roadmap é voltado para iniciantes que deseja ingressar na área de program
  
  Metas do mês de outubro
  - [x] Introdução a plataforma Java (10/10/2022)
- - [ ] Ambiente de desenvolvimento Java (20/10/2022)
  - [ ] Dominando IDEs com Java (30/10/2022)
  
  Taks para continuar evoluindo:
