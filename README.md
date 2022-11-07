@@ -1,7 +1,6 @@
 # Crianando-plano-de-estudos-para-Java
 
-## 
-Criando um plano de estudos em Java
+## Criando um plano de estudos em Java
 
 Este roadmap é voltado para iniciantes que deseja ingressar na área de programação com Java.
 
